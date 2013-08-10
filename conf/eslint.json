@@ -38,6 +38,8 @@
         "no-loop-func": 1,
         "no-empty-label": 1,
         "no-unused-vars": 1,
+        "no-mixed-requires": [0, false],
+        "no-wrap-func": 1,
 
         "smarter-eqeqeq": 0,
         "brace-style": 0,
